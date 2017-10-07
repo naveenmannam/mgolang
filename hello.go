@@ -4,8 +4,9 @@ package main
 
 import (
     "fmt"
+    "github.com/naveenmannam/stringutil"
 )
 
 func main(){
-    fmt.Println("Hello Naveen \n")
+    fmt.Printf(stringutil.Reverse("!oG ,olleH"))
 }
