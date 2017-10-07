@@ -19,3 +19,12 @@
 
 * go fmt filename.go
     - Helps in formatting the go file.
+
+* go install filename.go
+    - Helps in compiling and installing a package..
+
+* go get
+    - Downloads the raw source code of packages created by others.
+
+* go test
+    - Runs any test associated with current project.
