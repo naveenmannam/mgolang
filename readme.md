@@ -6,6 +6,8 @@
 
 [Go First Project](https://golang.org/doc/code.html "Hello world program")
 
+[Go Packages](https://golang.org/pkg/ "All go packages.")
+
 * go run filename.go 
     - To run the go code inside the project folder.
     - Will compile one or two files.
